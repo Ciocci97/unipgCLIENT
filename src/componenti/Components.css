@@ -1,0 +1,24 @@
+div.logo {
+	width: 120px;
+	height: 31px;
+	float: left;
+	font-size: 23pt;
+	font-weight: 800;
+	color: red;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;
+}
+
+div.title {
+	float: left;
+	color: white;
+	font-size: 15pt;
+}
+
+form.login-form {
+	max-width: 300px;
+}
+
+button.login-form-button {
+	width: 100%;
+}
